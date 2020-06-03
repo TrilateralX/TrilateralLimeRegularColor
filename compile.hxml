@@ -1,0 +1,2 @@
+#-cmd lime test mac -neko
+-cmd lime test html5
